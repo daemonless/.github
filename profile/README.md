@@ -21,7 +21,7 @@ Native FreeBSD OCI container images for self-hosted applications.
 
 ## Quick Links
 
-- [Quick Start Guide](https://daemonless.io/quick-start/)
+- [Quick Start Guide](https://daemonless.io/guides/quick-start/)
 - [Available Images](https://daemonless.io/images/)
 - [Documentation](https://daemonless.io)
 
